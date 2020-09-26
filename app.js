@@ -12,7 +12,5 @@ app.use(cors());
 
 // create express server 
 const server = app.listen(4000, '0.0.0.0', () => {
-    require('figlet')('Node . Js \n\nService\n\n', {
-        font: 'Slant'
-    });
+    console.log('Node . Js \n\nService Running\n\n');
 })
