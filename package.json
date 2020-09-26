@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/IamRohitMittal/Knolskape/issues"
   },
-  "homepage": "https://github.com/IamRohitMittal/Knolskape#readme"
+  "homepage": "https://github.com/IamRohitMittal/Knolskape#readme",
+  "dependencies": {
+    "googleapis": "^60.0.1"
+  }
 }
