@@ -1,0 +1,19 @@
+{
+  "name": "knolskape",
+  "version": "1.0.0",
+  "description": "Coding Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamRohitMittal/Knolskape.git"
+  },
+  "author": "Rohit Mittal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamRohitMittal/Knolskape/issues"
+  },
+  "homepage": "https://github.com/IamRohitMittal/Knolskape#readme"
+}
